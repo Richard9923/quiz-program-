@@ -1,4 +1,7 @@
 
+## Programa feito originalmente no PyCharm64. Aprendi no curso 100 dias de python da Udemy. 
+
+
 from question_model import Question
 from data import question_data
 from quiz_brain import QuizBrain
